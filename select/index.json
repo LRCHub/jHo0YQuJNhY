@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Blow Your Mind",
+  "base_artist": "Jamiroquai",
+  "createdAt": "2026-03-03T08:49:51.230626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blow Your Mind",
+      "artist": "Nicki Minaj",
+      "has_synced": false,
+      "path": "select/01_Blow_Your_Mind_Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blow Your Mind",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/02_Blow_Your_Mind_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blow Your Mind",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/03_Blow_Your_Mind_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blow Your Mind",
+      "artist": "The Vaccines",
+      "has_synced": true,
+      "path": "select/04_Blow_Your_Mind_The_Vaccines.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blow Your Mind (Mwah)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/05_Blow_Your_Mind_(Mwah)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blow Your Mind (Mwah) [Acoustic]",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/06_Blow_Your_Mind_(Mwah)_[Acoustic]_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blow Your Mind (Mwah) (acoustic)",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/07_Blow_Your_Mind_(Mwah)_(acoustic)_Dua_Lipa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blow Your Mind",
+      "artist": "Redman",
+      "has_synced": true,
+      "path": "select/08_Blow_Your_Mind_Redman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blow Your Mind (Remix)",
+      "artist": "Redman",
+      "has_synced": false,
+      "path": "select/09_Blow_Your_Mind_(Remix)_Redman.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blow Your Mind",
+      "artist": "Monster Magnet",
+      "has_synced": true,
+      "path": "select/10_Blow_Your_Mind_Monster_Magnet.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Didn't I (Blow Your Mind This Time)",
+      "artist": "The Delfonics",
+      "has_synced": false,
+      "path": "select/11_Didn't_I_(Blow_Your_Mind_This_Time)_The_Delfonics.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blow Your Mind",
+      "artist": "Dua Lipa",
+      "has_synced": true,
+      "path": "select/12_Blow_Your_Mind_Dua_Lipa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blow Your Mind",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/pl_01_Blow_Your_Mind_Jamiroquai.txt"
+    }
+  ]
+}
